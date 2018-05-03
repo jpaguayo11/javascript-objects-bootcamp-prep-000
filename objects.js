@@ -1,1 +1,1 @@
-playlist = {coldplay: "Fix You"}
+var playlist = {coldplay: "Fix You"}
